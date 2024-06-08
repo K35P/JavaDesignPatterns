@@ -1,0 +1,4 @@
+Supponiamo di avere una classe OldPrinter che ha un metodo printOld(),
+ma il client si aspetta di utilizzare un metodo print().
+
+Utilizzeremo il pattern Adapter per permettere al client di utilizzare OldPrinter attraverso il metodo print().

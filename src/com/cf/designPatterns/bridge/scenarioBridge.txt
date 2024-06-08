@@ -1,0 +1,2 @@
+Supponiamo di avere un sistema di disegno che può disegnare diverse forme (Shape)
+utilizzando diversi strumenti di disegno (DrawingAPI).
